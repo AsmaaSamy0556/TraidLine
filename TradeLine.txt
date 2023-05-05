@@ -1,0 +1,127 @@
+<DOCTYPE html>
+<html>
+
+<head>
+	<title>TradLine</title>
+	<link rel="stylesheet" type="text/css" href="FlowerShop.css">
+	
+</head>
+
+
+<body>
+
+	<div class="container">
+		<header>
+			<a href="https://www.tradelinestores.com/">
+				<img src="logo.jpg" class="logo"  width="250px">
+			</a>
+				<ul>
+				<li>	<a href="https://www.instagram.com/tradelinestores/">Instagram</a> </li>
+				<li>	<a href="https://www.facebook.com/Tradelinestores">Facebook</a>	</li>
+				<li>	<a href="https://apps.apple.com/eg/app/tradeline-stores/id1483055096?fbclid=IwAR1oJWe_TDx6evtsKqI6RL4Z1af43gG1g3G7vvy-DVLG_RmuL2v02LFiUjE">App store</a>  </li>
+				<li>	<a href="https://play.google.com/store/apps/details?id=com.bit68.tradeline">Google Play</a>  </li>				
+				</ul>
+		</header>
+		
+		
+		
+		<div class="content">
+			<div class="img">	<img src="pic1.png" width="500px" >		</div>
+			
+			<div class="t1">
+			
+				<p class="pa"><b>iPhone 13 Pro Max</b><br>It's features:<br>- Macro photography comes to iPhone.<br>
+				- Bring on the night.<br>- Wide camera.<br>- Ultra Wide camera.<br>- Cinematic mode.	
+				</p>
+			
+			</div>
+		
+		</div>
+		
+		<div class="icons">
+			<img onclick="phones(this.src)" src="pic1">
+			<img onclick="phones(this.src)" src="pic2">
+			<img onclick="phones(this.src)" src="pic3">
+			<img onclick="phones(this.src)" src="pic4">
+			<img onclick="phones(this.src)" src="pic5">
+		</div>
+		
+		
+		<div class="content">
+			<div class="img">	<img src="pic13pro.png" width="500px" >		</div>
+			
+			<div class="t1">
+			
+				<p class="pa"><b>iPhone 13 Pro</b><br>It's features:<br>- Macro photography comes to iPhone.<br>
+				- Bring on the night.<br>- Wide camera.<br>- Ultra Wide camera.<br>- Cinematic mode.<br>- Video Recording.	
+				</p>
+			
+			</div>
+		
+		</div>
+	
+		<div class="icons">
+			<img onclick="phones(this.src)" src="pic13pro.png">
+			<img onclick="phones(this.src)" src="pic13pro2.png">
+			<img onclick="phones(this.src)" src="pic13pro3.png">
+			<img onclick="phones(this.src)" src="pic13pro4.png">
+			<img onclick="phones(this.src)" src="pic13pro5.png">
+		</div>
+		
+		
+		
+		
+		<div class="content">
+			<div class="img">	<img src="i13.png" width="500px" >		</div>
+			
+			<div class="t1">
+			
+				<p class="pa"><b>iPhone 13</b><br>It's features:<br>- Cinematic mode automatically creates beautiful depth effects.<br>
+				- Night mode.<br>- Portrait mode.<br>- The Ultra Wide camera.
+				</p>
+			
+			</div>
+		
+		</div>
+	
+		<div class="icons">
+			<img onclick="phones(this.src)" src="i13.png">
+			<img onclick="phones(this.src)" src="i132.png">
+			<img onclick="phones(this.src)" src="i133.png">
+			<img onclick="phones(this.src)" src="i134.png">
+			<img onclick="phones(this.src)" src="i135.png">
+		</div>
+		
+		
+		
+		<div class="content">
+			<div class="img">	<img src="xr1.png" width="500px" >		</div>
+			
+			<div class="t1">
+			
+				<p class="pa"><b>iPhone XR</b><br>It's features:<br>- All-new Liquid Retina.<br>
+				- Beauty through innovation.<br>- Resists water and dust.
+				</p>
+			
+			</div>
+		
+		</div>
+	
+		<div class="icons">
+			<img onclick="phones(this.src)" src="xr1.png">
+			<img onclick="phones(this.src)" src="xr2.png">
+			<img onclick="phones(this.src)" src="xr3.png">
+			<img onclick="phones(this.src)" src="xr4.png">
+			<img onclick="phones(this.src)" src="xr5.png">
+		</div>
+		
+		
+	
+	
+	</div>
+	<script>alert("Enjoy your experience")</script>
+	<!--<script src="FlowerShop.js"></script>-->
+
+</body>
+
+</html>

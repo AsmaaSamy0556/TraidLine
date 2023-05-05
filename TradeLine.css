@@ -1,0 +1,24 @@
+*{font-family:Times New Roman;	padding:0;	margin:0;}
+
+h1{font-family:Arial;	font-size:22px;		font-weight:bold}
+
+p>b{color:blue;} 
+
+header {display:flex;	justify-content:space-between; 		align-items:center; 	margin:auto; 	width:95%;}
+
+ul li {display:inline-block;}
+
+ul li a {margin:0 5px;}
+
+.content{display:flex;			align-items:center;		 width:80%; 		margin:auto; 	font-size:20;}
+
+.container{position: relative;}
+
+.icons{position: absolute;		bottom:10; 	left:50%; 	transform:translatex(-50%);}
+
+.icons img{width:50px; 		transition:0.5s; 		cursor:pointer; 	margin:0 7px;}
+
+.icons img:hover{transform:scale(1.6);} 
+
+
+
